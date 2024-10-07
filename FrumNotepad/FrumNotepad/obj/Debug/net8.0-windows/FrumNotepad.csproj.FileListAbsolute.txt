@@ -1,0 +1,17 @@
+D:\Inf\Atestat take2\FrumNotepad\FrumNotepad\bin\Debug\net8.0-windows\FrumNotepad.exe
+D:\Inf\Atestat take2\FrumNotepad\FrumNotepad\bin\Debug\net8.0-windows\FrumNotepad.deps.json
+D:\Inf\Atestat take2\FrumNotepad\FrumNotepad\bin\Debug\net8.0-windows\FrumNotepad.runtimeconfig.json
+D:\Inf\Atestat take2\FrumNotepad\FrumNotepad\bin\Debug\net8.0-windows\FrumNotepad.dll
+D:\Inf\Atestat take2\FrumNotepad\FrumNotepad\bin\Debug\net8.0-windows\FrumNotepad.pdb
+D:\Inf\Atestat take2\FrumNotepad\FrumNotepad\obj\Debug\net8.0-windows\FrumNotepad.Form1.resources
+D:\Inf\Atestat take2\FrumNotepad\FrumNotepad\obj\Debug\net8.0-windows\FrumNotepad.csproj.GenerateResource.cache
+D:\Inf\Atestat take2\FrumNotepad\FrumNotepad\obj\Debug\net8.0-windows\FrumNotepad.GeneratedMSBuildEditorConfig.editorconfig
+D:\Inf\Atestat take2\FrumNotepad\FrumNotepad\obj\Debug\net8.0-windows\FrumNotepad.AssemblyInfoInputs.cache
+D:\Inf\Atestat take2\FrumNotepad\FrumNotepad\obj\Debug\net8.0-windows\FrumNotepad.AssemblyInfo.cs
+D:\Inf\Atestat take2\FrumNotepad\FrumNotepad\obj\Debug\net8.0-windows\FrumNotepad.csproj.CoreCompileInputs.cache
+D:\Inf\Atestat take2\FrumNotepad\FrumNotepad\obj\Debug\net8.0-windows\FrumNotepad.dll
+D:\Inf\Atestat take2\FrumNotepad\FrumNotepad\obj\Debug\net8.0-windows\refint\FrumNotepad.dll
+D:\Inf\Atestat take2\FrumNotepad\FrumNotepad\obj\Debug\net8.0-windows\FrumNotepad.pdb
+D:\Inf\Atestat take2\FrumNotepad\FrumNotepad\obj\Debug\net8.0-windows\FrumNotepad.genruntimeconfig.cache
+D:\Inf\Atestat take2\FrumNotepad\FrumNotepad\obj\Debug\net8.0-windows\ref\FrumNotepad.dll
+D:\Inf\Atestat take2\FrumNotepad\FrumNotepad\obj\Debug\net8.0-windows\FrumNotepad.About.resources
